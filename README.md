@@ -14,7 +14,7 @@ To set up Project Scriptorium, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ProjectScriptorium.git
+   git clone https://github.com/WatchmanWorldNews/ProjectScriptorium.git
    ```
 
 2. Navigate to the project directory:
